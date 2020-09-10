@@ -23,14 +23,14 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
 rtmp://58.200.131.2:1935/livetv/channelv
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新",无线新闻台
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
 http://520574.xyz/dl/tvb.php?id=inewshd
 ## http://tv.sason.xyz/proxy/tvb.php?id=xw
 ## http://45.93.217.106/jiuban/hg.php?id=1
 ## http://zscity.f3322.net:8000/bysid/83
 ## http://www.liveviptv.xyz/tv/tvb.php
 ## http://155.94.164.191/live.php?id=1
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wuxiancaijing.png" group-title="港台新",财经资讯台
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
 http://45.93.217.106/jiuban/hg.php?id=2
 ## http://tv.sason.xyz/proxy/tvb.php?id=cj
 ## http://zscity.f3322.net:8000/bysid/85
@@ -84,24 +84,24 @@ http://zscity.f3322.net:8000/bysid/82
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ntd.png" group-title="港台新",亞太台 NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.jpeg" group-title="港台新",香港ATV
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.png" group-title="港台新",香港ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.guoguodidi.tk/iptv/logo/lotus.png" group-title="港台新",澳門蓮花
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/lotus.png" group-title="港台新",澳門蓮花
 http://3026552997.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=uXQAAF-kKjcxWiAW&secondToken=secondToken%3AEoscNALPX699oGR2g7DLU3POxIE&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台新",八大综合
 http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-kf.png" group-title="港台新",功夫台
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港台新",大愛1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港台新",大愛2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港台新",大愛海外
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛海外
 https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 ## http://51.52.156.22:8888/http/004#http://ucc.zhibiaogu.com/bbc/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nhk2.png" group-title="港台新",NHK 华语视界
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hysj.png" group-title="港台新",NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/abcnews.png" group-title="港台新",ABC News
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/abcnews.png" group-title="港台新",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
