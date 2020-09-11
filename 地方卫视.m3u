@@ -173,7 +173,7 @@ http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 http://live.wifizs.cn/qdly/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://ly.chahaoquan.com:34040/udp/226.0.1.144:2124
+http://tv.tonyt.top/iptv/woniu.php?id=10000085
 ## http://bjiptv.f3322.net:4000/rtp/239.3.1.165:8001
 ## http://39.135.225.5:18890/PLTV/88888888/224/3221226859/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="地方台",芒果TV
@@ -183,7 +183,6 @@ http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv
-## http://ly.chahaoquan.com:34040/udp/226.0.1.128:3134
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通

@@ -30,30 +30,28 @@ http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobi
 
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
-http://ly.chahaoquan.com:34040/udp/226.0.1.127:3137
-## http://39.135.19.163:18890/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
+http://junlovefang.top:80/yfy.php?id=11005
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
-http://ly.chahaoquan.com:34040/udp/226.0.1.111:3183
-## http://springrain.top/shuliyun.php?id=036
+http://tv.tonyt.top/iptv/gzgd.php?id=hqqg
+## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
-http://ly.chahaoquan.com:34040/udp/226.0.1.116:3192
+http://itv.ahau.edu.cn/hls/hls100.m3u8
 ## http://springrain.top/shuliyun.php?id=175
-## http://39.135.19.163:18890/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
 ## http://springrain.top/shuliyun.php?id=066
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctx.png" group-title="纪录片",收藏天下
-http://ly.chahaoquan.com:34040/udp/226.0.1.124:3139
+http://125.210.152.18:9090/live/SCTX.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/henan.png" group-title="纪录片",文物宝库
-http://springrain.top/shuliyun.php?id=068
+http://hdtv.lzu6.edu.cn/hls/hls22.m3u8
+## http://springrain.top/shuliyun.php?id=068
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/shpd.png" group-title="纪录片",书画频道
-http://ly.chahaoquan.com:34040/udp/226.0.1.102:3186
-## http://springrain.top/shuliyun.php?id=034
+http://springrain.top/shuliyun.php?id=034
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/klcd.png" group-title="纪录片",快乐垂钓
-http://ly.chahaoquan.com:34040/udp/226.0.1.145:2134
+http://tv.tonyt.top/iptv/woniu.php?id=10000084
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cmpd.png" group-title="纪录片",车迷频道
-http://ly.chahaoquan.com:34040/udp/226.0.1.138:3133
+http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
-http://ly.chahaoquan.com:34040/udp/226.0.1.103:3201
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225683//index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="纪录片",纪录片
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiLuPian
