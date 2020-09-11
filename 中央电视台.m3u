@@ -72,37 +72,37 @@ http://tjy2002.vicp.net:4022/udp/239.253.43.19:5146#http://k3.skyhi.top:8888/udp
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="央視",央视文化精品
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央視",世界地理
-http://tv.tonyt.top/iptv/gzgd.php?id=sjdl
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls#http://junlovefang.top:80/yfy.php?id=43057
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=sjdl#http://junlovefang.top:80/yfy.php?id=43057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="央視",兵器科技
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 ## http://junlovefang.top:80/yfy.php?id=43060
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
-http://tv.tonyt.top/iptv/gzgd.php?id=nxss
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls#http://junlovefang.top:80/yfy.php?id=51014
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=nxss#http://junlovefang.top:80/yfy.php?id=51014
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
-http://tv.tonyt.top/iptv/gzgd.php?id=dyjc
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls#http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8#http://junlovefang.top:80/yfy.php?id=43056
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=dyjc#http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8#http://junlovefang.top:80/yfy.php?id=43056
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
-http://tv.tonyt.top/iptv/gzgd.php?id=fyjc
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=fyjc
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
-http://tv.tonyt.top/iptv/gzgd.php?id=hjjc
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=hjjc
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="央視",风云音乐
-http://tv.tonyt.top/iptv/gzgd.php?id=fyyy
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls#http://junlovefang.top:80/yfy.php?id=51012
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=fyyy#http://junlovefang.top:80/yfy.php?id=51012
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="央視",卫生健康
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyzq.png" group-title="央視",风云足球
-http://tv.tonyt.top/iptv/gzgd.php?id=fyzq
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#http://junlovefang.top:80/yfy.php?id=22019
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=fyzq#http://junlovefang.top:80/yfy.php?id=22019
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gef.png" group-title="央視",高尔夫网球
 http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/lgs.png" group-title="央視",老故事
-http://tv.tonyt.top/iptv/gzgd.php?id=lgs
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls#http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=lgs#http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fxzl.png" group-title="央視",发现之旅
-http://tv.tonyt.top/iptv/gzgd.php?id=fxzl
+http://125.210.152.18:9090/live/FXZL_750.m3u8#http://tv.tonyt.top/iptv/gzgd.php?id=fxzl
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zxs.png" group-title="央視",中学生
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xkdm.png" group-title="央視",新科动漫

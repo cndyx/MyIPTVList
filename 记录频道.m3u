@@ -6,9 +6,9 @@ http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 ## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
 ## http://39.134.156.15/PLTV/88888888/224/3221225590/.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://39.135.225.11:18890/PLTV/88888888/224/3221226937/index.m3u8
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
 ## http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+## http://39.135.225.11:18890/PLTV/88888888/224/3221226937/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsjl.png" group-title="纪录片",求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
@@ -32,8 +32,8 @@ http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobi
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
 http://junlovefang.top:80/yfy.php?id=11005
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
-http://tv.tonyt.top/iptv/gzgd.php?id=hqqg
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+## http://tv.tonyt.top/iptv/gzgd.php?id=hqqg
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
 http://itv.ahau.edu.cn/hls/hls100.m3u8
 ## http://springrain.top/shuliyun.php?id=175
