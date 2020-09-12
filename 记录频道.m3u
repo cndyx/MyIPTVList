@@ -40,12 +40,12 @@ http://itv.ahau.edu.cn/hls/hls100.m3u8
 ## http://springrain.top/shuliyun.php?id=066
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctx.png" group-title="纪录片",收藏天下
 http://125.210.152.18:9090/live/SCTX.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/ws/henan.png" group-title="纪录片",文物宝库
-http://hdtv.lzu6.edu.cn/hls/hls22.m3u8
-## http://springrain.top/shuliyun.php?id=068
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wwbk.png" group-title="纪录片",文物宝库
+http://springrain.top/shuliyun.php?id=068
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/shpd.png" group-title="纪录片",书画频道
 http://springrain.top/shuliyun.php?id=034
-
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
+http://player.tzjo.com/all/yfy.php?id=43049
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/klcd.png" group-title="纪录片",快乐垂钓
 http://tv.tonyt.top/iptv/woniu.php?id=10000084
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cmpd.png" group-title="纪录片",车迷频道
