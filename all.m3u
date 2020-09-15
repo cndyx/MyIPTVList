@@ -265,7 +265,7 @@ http://itv.ahau.edu.cn/hls/hls100.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wwbk.png" group-title="纪录片",文物宝库
 http://springrain.top/shuliyun.php?id=068
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
-http://player.tzjo.com/all/yfy.php?id=43049
+http://d-mail.vicp.net:4000/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/shpd.png" group-title="纪录片",书画频道
 http://springrain.top/shuliyun.php?id=034
 
