@@ -4,6 +4,7 @@
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 ## http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 ## http://223.110.245.136/PLTV/3/224/3221226922/index.m3u8
+## http://520574.xyz/dl/iptv.php?id=2
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 ## http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
@@ -11,12 +12,14 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
 http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
 ## http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+## http://520574.xyz/dl/iptv.php?id=4
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pdy.png" group-title="港台新",凤凰电影台
 rtmp://58.200.131.2/livetv/fhdy
 ###### 香港
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hks.png" group-title="港台新",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 ## http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+## http://520574.xyz/dl/iptv.php?id=6
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="港台新",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
@@ -64,7 +67,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u
 
 ###### ******* ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
-http://61.238.6.49:8000/bysid/1
+http://520574.xyz/dl/iptv.php?id=1
+## http://61.238.6.49:8000/bysid/1
 ## http://ff05.vipub1818.com/live/390/ff716247068189f5a8f5515789e8ab85/index.m3u8
 ## http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 ## http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8

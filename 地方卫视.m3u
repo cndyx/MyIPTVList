@@ -124,6 +124,13 @@ http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqds.png" group-title="地方台",重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV3/NEIJTV3.jpg?1" group-title="地方台",内江综合
+http://njzb.scnj.tv:90/live/xwzh_xwzh800.m3u8
+#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV1/NEIJTV1.jpg?1" group-title="地方台",内江公共
+http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
+#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV4/NEIJTV4.jpg?1" group-title="地方台",内江科教
+http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/2020Sctvlogo.png" group-title="地方台",熊猫新闻
 http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
 ## http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
@@ -186,13 +193,15 @@ http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
+http://tv.lanjingfm.com/cctbn/sichuan.m3u8
+## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
 ## http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
 
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="地方台",DV生活
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdht.png" group-title="地方台",成都高新
-## #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/shuangliutv.jpg" group-title="地方台",成都双流
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
+## http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
 ## #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cdsspd.jpg" group-title="地方台",食尚频道
 ## #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cdzxxgx.jpg" group-title="地方台",资讯新干线
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方台",东奥纪实
@@ -203,8 +212,5 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方台",大爱生活
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/panda.png" group-title="地方台",熊猫影院
 ## #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/cdlyms.jpg" group-title="地方台",美食旅游
-## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV3/NEIJTV3.jpg?1" group-title="地方台",内江综合
-## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV1/NEIJTV1.jpg?1" group-title="地方台",内江公共
-## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV4/NEIJTV4.jpg?1" group-title="地方台",内江科教
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方台",风尚河南
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gdzj.png" group-title="地方台",广东珠江
