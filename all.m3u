@@ -21,18 +21,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新",开电视
-http://live.vpnyun.tk:8080/demo/456321/14
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kst.png" group-title="港台新",卫视卡式
-http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/yxyl.png" group-title="港台新",有线综合娱乐台
-http://live.vpnyun.tk:8080/demo/456321/12
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",TVB 翡翠台
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 http://live.vpnyun.tk:8080/demo/456321/1
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",TVB 明珠台
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
 http://live.vpnyun.tk:8080/demo/456321/2
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",TVB J2
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
 http://live.vpnyun.tk:8080/demo/456321/7
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv.png" group-title="港台新",ViuTV HD
@@ -41,6 +34,13 @@ http://live.vpnyun.tk:8080/demo/456321/15
 http://live.vpnyun.tk:8080/demo/456321/16
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新",有线电影台
 http://live.vpnyun.tk:8080/demo/456321/13
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kst.png" group-title="港台新",卫视卡式
+http://live.vpnyun.tk:8080/demo/456321/23
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yxyl.png" group-title="港台新",综合娱乐台
+http://live.vpnyun.tk:8080/demo/456321/12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新",开电视
+http://live.vpnyun.tk:8080/demo/456321/14
 
 ###### 央視
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
