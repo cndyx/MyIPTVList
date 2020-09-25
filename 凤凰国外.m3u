@@ -51,7 +51,7 @@ http://live.vpnyun.tk:8080/demo/456321/7
 http://live.vpnyun.tk:8080/demo/456321/2
 ## http://zscity.f3322.net:8000/bysid/2
 ## http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvb-jd.png" group-title="港台新",经典台
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-jd.png" group-title="港台新",经典台
 http://live.vpnyun.tk:8080/demo/456321/21
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-xh.png" group-title="港台新",TVB星河
 http://live.vpnyun.tk:8080/demo/456321/20
