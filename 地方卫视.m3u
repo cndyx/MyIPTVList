@@ -53,15 +53,12 @@ http://stream4.jlntv.cn/test2/sd/live.m3u8#http://118.123.60.8:8114/LIVES/Fsv_ot
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视",贵州卫视
 http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
-## http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视",东南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
-## http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
+http://39.134.39.37/PLTV/88888888/224/3221226182/index.m3u8
 ## http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-## http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
+http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
 ## http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="地方卫视",宁夏卫视
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
@@ -76,8 +73,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225882/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225883/index.m3u8
 ## http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
-## http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北卫视
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="地方卫视",陕西卫视
@@ -180,11 +176,7 @@ http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 http://live.wifizs.cn/qdly/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://tv.tonyt.top/iptv/woniu.php?id=10000085
-## http://bjiptv.f3322.net:4000/rtp/239.3.1.165:8001
-## http://39.135.225.5:18890/PLTV/88888888/224/3221226859/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="地方台",芒果TV
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+http://springrain.top/shuliyun.php?id=057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
 http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079
 
@@ -197,11 +189,13 @@ http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 ## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
 ## http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
+http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
 
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="地方台",芒果TV
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="地方台",DV生活
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdht.png" group-title="地方台",成都高新
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
-## http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
 ## #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cdsspd.jpg" group-title="地方台",食尚频道
 ## #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cdzxxgx.jpg" group-title="地方台",资讯新干线
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方台",东奥纪实
