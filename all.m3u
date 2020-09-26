@@ -22,25 +22,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
-http://live.vpnyun.tk:8080/demo/456321/1
+http://8rr.co/5FyJ
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
-http://live.vpnyun.tk:8080/demo/456321/2
+http://zscity.f3322.net:8000/bysid/2
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
-http://live.vpnyun.tk:8080/demo/456321/7
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv.png" group-title="港台新",ViuTV HD
-http://live.vpnyun.tk:8080/demo/456321/15
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv6.png" group-title="港台新",ViuTV6 HD
-http://live.vpnyun.tk:8080/demo/456321/16
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新",有线电影台
-http://live.vpnyun.tk:8080/demo/456321/13
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kst.png" group-title="港台新",卫视卡式
-http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yxyl.png" group-title="港台新",综合娱乐台
-http://live.vpnyun.tk:8080/demo/456321/12
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新",开电视
-http://live.vpnyun.tk:8080/demo/456321/14
+http://zscity.f3322.net:8000/bysid/82
 
 ###### 央視
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
