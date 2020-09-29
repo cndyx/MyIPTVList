@@ -23,17 +23,17 @@ http://sg.sysawo.com/dvr/mt9txb8x/ah78hanv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/untv.png" group-title="港台新",联合国电视台
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmM_
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZibXo_
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
+http://danielwu.gz01.bdysite.com/iptv/?id=pearl
 
 ###### 央視
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
@@ -220,13 +220,6 @@ http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV4/NEIJTV4.jpg?1" group-title="地方台",内江科教
 http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCGCWDASAI/SCGCWDASAI.jpg" group-title="地方台",熊猫爱生活
-http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYYPD/XMYYPD.jpg" group-title="地方台",熊猫影院
-http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYLPD/XMYLPD.jpg" group-title="地方台",熊猫体娱
-http://sam629205.f3322.net:2018/udp/239.93.0.94:5140
-
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方台",上海新闻
@@ -240,18 +233,26 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方台",极速汽车
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/2020Sctvlogo.png" group-title="地方台",熊猫新闻
-http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
-http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://springrain.top/shuliyun.php?id=057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
-http://tv.lanjingfm.com/cctbn/sichuan.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCGCWDASAI/SCGCWDASAI.jpg" group-title="地方台",熊猫爱生活
+## http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYYPD/XMYYPD.jpg" group-title="地方台",熊猫影院
+## http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYLPD/XMYLPD.jpg" group-title="地方台",熊猫体娱
+## http://sam629205.f3322.net:2018/udp/239.93.0.94:5140
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/2020Sctvlogo.png" group-title="地方台",熊猫新闻
+## http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
+## http://springrain.top/shuliyun.php?id=057
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
+## http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 
 ####### 纪录频道
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qjs.png" group-title="纪录片",全纪实
