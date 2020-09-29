@@ -25,20 +25,7 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEe
 http://gat.589ys.top:9889/tvzb.php?nn34&play&line=293tv&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDg1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ccm.png" group-title="港台新",天映经典
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHlqZA__
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
-rtmp://58.200.131.2:1935/livetv/channelv
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
-http://zscity.f3322.net:8000/bysid/83
-## http://tv.sason.xyz/proxy/tvb.php?id=xw
-## http://45.93.217.106/jiuban/hg.php?id=1
-## http://155.94.164.191/live.php?id=1
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
-http://zscity.f3322.net:8000/bysid/85
-## http://tv.sason.xyz/proxy/tvb.php?id=cj
-## http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb.png" group-title="港台新",TVB港剧二台
-http://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiZmM_
 ## http://8rr.co/5FyJ
@@ -50,10 +37,22 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEd
 ## http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZiajI_
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
+http://zscity.f3322.net:8000/bysid/83
+## http://tv.sason.xyz/proxy/tvb.php?id=xw
+## http://45.93.217.106/jiuban/hg.php?id=1
+## http://155.94.164.191/live.php?id=1
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
+http://zscity.f3322.net:8000/bysid/85
+## http://tv.sason.xyz/proxy/tvb.php?id=cj
+## http://45.93.217.106/jiuban/hg.php?id=2
 ## http://zscity.f3322.net:8000/bysid/82
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
+rtmp://58.200.131.2:1935/livetv/channelv
+
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-jd.png" group-title="港台新",经典台
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-xh.png" group-title="港台新",TVB星河
-
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yxyl.png" group-title="港台新",综合娱乐台
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新",有线电影台
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yx603.png" group-title="港台新",有线603
@@ -67,18 +66,6 @@ http://hls.globaliptv.ml/viu96.php
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/foxaction.png" group-title="港台新",FOX Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-xwt.png" group-title="港台新",Now新闻台
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-zbt.png" group-title="港台新",Now直播台
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMx
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk31.png" group-title="港台新",RHK31
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk32.png" group-title="港台新",RHK32
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港台新",美亚电影台
-http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXlkeQ__
-
-
 ###### 新加坡
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cna.png" group-title="港台新",Channel [CNA]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -86,29 +73,28 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 ## https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 ## http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 ## https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/okey.png" group-title="港台新",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/astro308.png" group-title="港台新",Astro全佳
+http://sg.sysawo.com/dvr/mt9txb8x/ah78hanv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/aattv.png" group-title="港台新",亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rthk.png" group-title="港台新",香港电台
-https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/untv.png" group-title="港台新",联合国电视台
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
 
 ###### ******* ######
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/astro308.png" group-title="港台新",Astro全佳
-http://sg.sysawo.com/dvr/mt9txb8x/ah78hanv/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
-https://vod.mudu.tv/watch/2020-03-07/5eesof_16764.m3u8
-######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ntd.png" group-title="港台新",亞太台 NTD TV
-https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rthk.png" group-title="港台新",香港电台
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.png" group-title="港台新",香港ATV
 http://php.vip68168he.xyz/HQHTV/GOTPD/gmt.php?id=6
 ## https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ntd.png" group-title="港台新",亞太台 NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/lotus.png" group-title="港台新",澳門蓮花
 http://php.vip68168he.xyz/HQHTV/GOTPD/omlh.php?id=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台新",八大综合
@@ -128,7 +114,6 @@ http://php.vip68168he.xyz/HQHTV/GOTPD/gmt.php?id=26
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hysj.png" group-title="港台新",NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="港台新",TVBS新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHZic3h3
@@ -151,7 +136,6 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEd
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEdHd6cw__
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yxw.png" group-title="港台新",一新闻
 
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/FTVNews.png" group-title="港台新",民视新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXN4dw__
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台新",台视新闻
@@ -163,6 +147,38 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEe
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台新",东森新闻
 http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZHN4dw__
 
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-xwt.png" group-title="港台新",Now新闻台
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMy
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-zbt.png" group-title="港台新",Now直播台
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbm93MzMx
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk31.png" group-title="港台新",RHK31
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMx
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rhk32.png" group-title="港台新",RHK32
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEcnRoazMy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港台新",美亚电影台
+http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEbXlkeQ__
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Xtreme.png" group-title="港台新",HBO Xtreme HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/322.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港台新",HBO HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/302.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/300.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO2HD.png" group-title="港台新",HBO 2 HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/294.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/292.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBO_Mundi.png" group-title="港台新",HBO Mundi HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/306.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/304.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBOPlus.png" group-title="港台新",HBO Plus HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/310.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/308.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/HBOPlus.png" group-title="港台新",HBO Pop HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/314.m3u8
+## http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/312.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港台新",HBO Signature HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/316.m3u8
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港台新",NHK
 ## #EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/bbcnew1.png" group-title="港台新",BBC News
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港台新",华视
@@ -190,3 +206,5 @@ http://gat.589ys.top:9889/tvzb.php?nn34&play&vkeys=dmlkJTNEZm1pbGl2ZSUyM2lkJTNEZ
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="港台新",TV5Monde Info
 ## #EXTINF:-1 tvg-logo="" group-title="港台新",彭博财经
 ## https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb.png" group-title="港台新",TVB港剧二台
+## http://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
