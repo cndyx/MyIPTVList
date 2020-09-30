@@ -16,17 +16,10 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cna.png" group-title="港台新",Channel [CNA]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/okey.png" group-title="港台新",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/astro308.png" group-title="港台新",Astro全佳
-http://sg.sysawo.com/dvr/mt9txb8x/ah78hanv/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/untv.png" group-title="港台新",联合国电视台
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/okey.png" group-title="港台新",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 http://61.238.6.49:8000/bysid/1
@@ -316,14 +309,14 @@ http://szdl.3322.org:8888/rtp/233.50.201.231:5140
 http://szdl.3322.org:8888/rtp/233.50.201.230:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
 http://szdl.3322.org:8888/rtp/233.50.201.240:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",高清院线
-http://124.229.36.68:4022/udp/239.76.252.217:9000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",邵氏电影
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="高清影视",欧美影院
 http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890225&hms_devid=1460&online=1592890225&vqe=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="高清影视",海看大片
 http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",精彩影视
+http://125.210.152.21:9120/live/JCYS.m3u8
 
 ####### IPTV
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="IPTV",G+海外佳片
@@ -381,14 +374,14 @@ http://39.134.156.16/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/love4k.png" group-title="4K频道",爱上4K
 http://sam629205.f3322.net:2018/udp/239.93.1.113:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bestv4k.png" group-title="4K频道",百视通4K
-http://39.135.225.11:18890/PLTV/88888888/224/3221226952/index.m3u8
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="4K频道",芒果4K
-http://39.135.225.11:18890/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gdzy-4k.png" group-title="4K频道",广东综艺4K
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ngds4k.png" group-title="4K频道",南国都市4K
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.png" group-title="4K频道",4K超清
+http://szdl.3322.org:8888/rtp/233.50.201.243:5140
 
 ####### 少儿
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdh.png" group-title="少儿",黑莓动画

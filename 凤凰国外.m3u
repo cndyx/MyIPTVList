@@ -71,8 +71,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 
 ###### ******* ######
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/rthk.png" group-title="港台新",香港电台
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.png" group-title="港台新",香港ATV
@@ -120,6 +118,7 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港台新",HBO Signature HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/316.m3u8
 
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/utv.png" group-title="港台新",环球电视台
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台新",开电视
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/xwdy.png" group-title="港台新",星卫电影台
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kst.png" group-title="港台新",卫视卡式台

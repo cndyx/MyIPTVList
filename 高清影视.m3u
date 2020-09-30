@@ -42,8 +42,7 @@ http://szdl.3322.org:8888/rtp/233.50.201.232:5140
 http://szdl.3322.org:8888/rtp/233.50.201.230:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
 http://szdl.3322.org:8888/rtp/233.50.201.240:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",IPTV高清院线
-http://124.229.36.68:4022/udp/239.76.252.217:9000
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",IPTV高清院线
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",精彩影视
 http://125.210.152.21:9120/live/JCYS.m3u8
