@@ -299,24 +299,25 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#rtmp://
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="高清影视",家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",首映电影
-http://szdl.3322.org:8888/rtp/233.50.201.239:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",动作影院
-http://szdl.3322.org:8888/rtp/233.50.201.232:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",环球电影
-http://szdl.3322.org:8888/rtp/233.50.201.231:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",欧美影院
-http://szdl.3322.org:8888/rtp/233.50.201.230:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
-http://szdl.3322.org:8888/rtp/233.50.201.240:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",邵氏电影
-http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",首映电影
+## http://szdl.3322.org:8888/rtp/233.50.201.239:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",动作影院
+## http://szdl.3322.org:8888/rtp/233.50.201.232:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",环球电影
+## http://szdl.3322.org:8888/rtp/233.50.201.231:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",欧美影院
+## http://szdl.3322.org:8888/rtp/233.50.201.230:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="高清影视",华语影院
+## http://szdl.3322.org:8888/rtp/233.50.201.240:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jcys.png" group-title="高清影视",精彩影视
+## http://125.210.152.21:9120/live/JCYS.m3u8
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="高清影视",欧美影院
 http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890225&hms_devid=1460&online=1592890225&vqe=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="高清影视",海看大片
 http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jcys.png" group-title="高清影视",精彩影视
-http://125.210.152.21:9120/live/JCYS.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" group-title="高清影视",邵氏电影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 
 ####### IPTV
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="IPTV",G+海外佳片
