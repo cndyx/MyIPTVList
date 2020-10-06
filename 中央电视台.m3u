@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央視",CCTV4K 超高清
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-## http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hlsrrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+## http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 ## http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
+## http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 ######
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
@@ -51,6 +52,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
 ## http://112.132.32.52/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
+## http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000216.m3u8&ts=50&auth=no
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視",CCTV-14 少儿
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 ## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8

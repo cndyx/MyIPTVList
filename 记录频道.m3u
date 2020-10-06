@@ -30,26 +30,29 @@ http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobi
 
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
-http://junlovefang.top:80/yfy.php?id=11005
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000082.m3u8&ts=50&auth=no
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+http://222.133.41.206/e/cibn.php?id=37
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
 http://itv.ahau.edu.cn/hls/hls100.m3u8
 ## http://springrain.top/shuliyun.php?id=175
 ## http://springrain.top/shuliyun.php?id=066
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctx.png" group-title="纪录片",收藏天下
-http://125.210.152.18:9090/live/SCTX.m3u8
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000081.m3u8&ts=50&auth=no
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wwbk.png" group-title="纪录片",文物宝库
 http://springrain.top/shuliyun.php?id=068
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/shpd.png" group-title="纪录片",书画频道
-http://springrain.top/shuliyun.php?id=034
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000099.m3u8&ts=50&auth=no
+## http://springrain.top/shuliyun.php?id=034
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
 http://d-mail.vicp.net:4000/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cmpd.png" group-title="纪录片",车迷频道
-http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000119.m3u8&ts=50&auth=no
+## http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225683//index.m3u8?fmt=ts2hls
+## http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000102.m3u8&ts=50&auth=no
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="纪录片",纪录片
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiLuPian

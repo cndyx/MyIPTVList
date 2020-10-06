@@ -81,7 +81,8 @@ http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221225821/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225859/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方卫视",云南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225838/index.m3u8
+http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+## http://39.134.115.163:8080/PLTV/88888910/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="地方卫视",兵团卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225879/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方卫视",南方卫视
@@ -153,7 +154,7 @@ http://live.826pc.com/cdtv/live.php?id=5
 http://live.826pc.com/cdtv/live.php?id=6
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方台",美食天府
-https://www.ootori.xyz/tv/cditv-hd.php?cid=2763&id=17
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000203.m3u8&ts=50&auth=no
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方台",上海ICS
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225639/index.m3u8
@@ -169,8 +170,11 @@ http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/jyjs.png" group-title="地方台",金鹰纪实
-http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
+http://tv.kksyw.top/gy_666888/gn/woniu.php?id=10000044
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
+http://tv.kksyw.top/gy_666888/gn/woniu.php?id=10000045
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
@@ -182,8 +186,9 @@ http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
+## http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000205.m3u8&ts=50&auth=no
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+http://player.200877926.top/1786/hunan/hnyx2m3u8.php?id=11006
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
 http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 ## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
