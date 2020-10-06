@@ -69,8 +69,7 @@ http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 group-title="IPTV",I爱时尚
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cmlp.png" group-title="IPTV",潮妈辣婆
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cmlp.png" group-title="IPTV",潮妈辣婆
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png" group-title="IPTV",Newtv-四川
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
@@ -97,7 +96,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mxdp.jpg" group-title="IPTV",明星大片
 ## #EXTINF:-1 tvg-logo="http://www.88dianshi.com/uploads/images/20180620/e195561c6fc3dada192c5664b4c69cef.jpg" group-title="IPTV",海外剧场
-## http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkrb.png" group-title="IPTV",海看热播
 ## http://120.221.5.102:8089/PLTV/88888888/224/3221225878/index.m3u8#http://120.221.44.101:8089/PLTV/88888888/224/3221225878/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkjc.png" group-title="IPTV",海看剧场
