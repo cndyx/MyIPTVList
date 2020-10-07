@@ -54,7 +54,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
 http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
 ## http://112.132.32.52/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
-## http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000216.m3u8&ts=50&auth=no
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視",CCTV-14 少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 ## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
