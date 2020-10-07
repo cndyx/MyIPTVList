@@ -28,7 +28,6 @@ http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobi
 ## http://[2001:250:5405:13::47]/hls/hls62.m3u8
 ## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
 
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
 http://125.210.152.18:9090/live/HQLY.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观

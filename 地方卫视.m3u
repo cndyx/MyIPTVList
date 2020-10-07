@@ -106,8 +106,7 @@ http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-gg.png" group-title="地方台",公共乡村
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv8.png" group-title="地方台",四川科教
-http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=066&Provider_id=&Pcontent_id=index.m3u8
-
+http://118.123.60.200:8114/z.m3u8?FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=74&Provider_id=&Pcontent_id=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/emdy.png" group-title="地方台",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqxw.png" group-title="地方台",重庆新闻
@@ -132,7 +131,7 @@ http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
 http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYLPD/XMYLPD.jpg" group-title="地方台",熊猫体娱
 http://sam629205.f3322.net:2018/udp/239.93.0.94:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMZBJ/XMZBJ.jpg" group-title="地方台",熊猫直播间
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ipanda-live.png" group-title="地方台",熊猫直播间
 http://sam629205.f3322.net:2018/udp/239.93.0.211:9148
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
@@ -183,7 +182,8 @@ http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 http://player.200877926.top/1786/hunan/hnyx2m3u8.php?id=11006
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
-http://tv.lanjingfm.com/cctbn/sichuan.m3u8
+http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
+## http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 ## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
 ## http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
