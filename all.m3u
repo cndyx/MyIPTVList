@@ -393,7 +393,7 @@ http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cetv1.png" group-title="少儿",教育综合
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
-http://211.137.115.110:8080/gitv_live/G_JINYING/G_JINYING.m3u8
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
 http://211.137.115.110:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
 
@@ -419,9 +419,9 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=QingGan
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",流金岁月
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",MV
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=338
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",流行榜单
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=155
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",时尚生活
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",巨星演唱会
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=135
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",经典音乐
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=162

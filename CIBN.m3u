@@ -15,27 +15,20 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=Shoucang
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YingXiong
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",时尚生活
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DongLinFaYin
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",新知
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=FengShang
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",综合
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=DianJing
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",MV
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=338
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",流行榜单
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=155
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",老陈坐弹会
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=136
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",收藏
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=501
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",全电竞
 http://nas.330421.cn:8000/iptv/cibn/?id=1104&code=115
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",动作影院
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",生活
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ShengHuo
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",真人秀
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LuShi
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",嗨播
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=LvYou
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",巨星演唱会
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=135
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",经典音乐
@@ -48,28 +41,3 @@ http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=145
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=78
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",莎翁戏剧
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=68
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",生活
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YouXi
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",好物
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=178
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",今日推荐
-http://nas.330421.cn:8000/iptv/cibn/?id=1103&code=64
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",快乐购物
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=65
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",家居用品
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=jiayougouwu
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",古装剧场
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=ZongYi
-
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",经典剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",佳片影院
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",汉学院
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",斗牛财经
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",欧洲影院
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",百科实录
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",现身说法
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",时尚前沿
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",动漫剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="CIBN",宝岛风情
-
