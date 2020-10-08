@@ -1,14 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-hd.png" group-title="高清影视",高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-dzdy.png" group-title="高清影视",动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="高清影视",家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+http://61.160.152.55/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing2.png" group-title="高清影视",家庭影院
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing3.png" group-title="高清影视",大众影视
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing1.png" group-title="高清影视",家庭剧场
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing2.png" group-title="高清影视",家庭影院
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing3.png" group-title="高清影视",大众影视
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing1.png" group-title="高清影视",家庭剧场
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdy.png" group-title="高清影视",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
