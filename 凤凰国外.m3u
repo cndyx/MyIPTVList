@@ -1,14 +1,20 @@
 #EXTM3U
 ###### 凤凰台
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png" group-title="港台新",凤凰中文台
-http://tv.kksyw.top/gy_666888/gn/guizhouyouxian.php?id=fhzw&pd=1&sd=6
+http://39.134.185.235/PLTV/88888888/224/3221226368/index.m3u8
+## http://tv.kksyw.top/gy_666888/gn/guizhouyouxian.php?id=fhzw&pd=1&sd=6
+## http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+## http://hls111.dszbdq.cn/tm1.php?id=PhoenixTVHD
 ## http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 ## http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
-http://tv.kksyw.top/gy_666888/gn/guizhouyouxian.php?id=fhzx&pd=1&sd=8
+http://39.134.185.235/PLTV/88888888/224/3221226491/index.m3u8
+## http://tv.kksyw.top/gy_666888/gn/guizhouyouxian.php?id=fhzx&pd=1&sd=8
+## http://hls111.dszbdq.cn/tm1.php?id=PhoenixinfoTVHD
 ## http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+## http://hls111.dszbdq.cn/tm1.php?id=PhoenixHKHD
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pdy.png" group-title="港台新",凤凰电影台
 rtmp://58.200.131.2/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
@@ -79,7 +85,7 @@ http://php.vip68168he.xyz/HQHTV/GOTPD/gmt.php?id=6
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ntd.png" group-title="港台新",亞太台 NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/lotus.png" group-title="港台新",澳門蓮花
-http://php.vip68168he.xyz/HQHTV/GOTPD/omlh.php?id=1
+http://hls111.dszbdq.cn/amlh.php
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="港台新",八大综合
 http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tvb-kf.png" group-title="港台新",功夫台
