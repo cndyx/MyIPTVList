@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央視",CCTV4K 超高清
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hlsrrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-## http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-## http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-## http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
-######
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
 http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
 ## http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
@@ -62,7 +56,18 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視"",CCTV-17 农业农村
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 ## http://117.169.120.160:8080/live/HD-4000k-1080P-cctv17/1.m3u8
+
 ######
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央視",CCTV4K 超高清
+http://zzy.5sz.xyz/gzyxdl.php?id=07259f1303e848e481fbc3543d583644
+## http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hlsrrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+## http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+## http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
+## http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+
+######
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="央視",电视指南
 http://tjy2002.vicp.net:4022/udp/239.253.43.19:5146#http://k3.skyhi.top:8888/udp/239.253.43.19:5146
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="央視",央视文化精品

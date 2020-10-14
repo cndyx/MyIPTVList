@@ -17,7 +17,9 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 ## http://hls111.dszbdq.cn/tm1.php?id=PhoenixHKHD
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pdy.png" group-title="港台新",凤凰电影台
-rtmp://58.200.131.2/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+rtmp://58.200.131.2/livetv/fhdy
+## rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+## https://www.fanmingming.cn/hls/fhdy.m3u8
 ###### 香港
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hks.png" group-title="港台新",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
