@@ -177,9 +177,11 @@ http://tv.kksyw.top/gy_666888/gn/woniu.php?id=10000045
 http://live.wifizs.cn/qdly/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://springrain.top/shuliyun.php?id=057
+http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085
+## http://springrain.top/shuliyun.php?id=057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
-http://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079
+http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000079
+## ttp://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
@@ -193,6 +195,8 @@ http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
 http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdwj.png" group-title="地方台",成都温江
+http://182.138.51.71/PLTV/88888920/224/3221225796/index.m3u8
 
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="地方台",芒果TV
