@@ -5,7 +5,7 @@ http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhchines
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
 http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhzixun/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pdy.png" group-title="港台新",凤凰电影台
 rtmp://58.200.131.2/livetv/fhdy
@@ -81,21 +81,21 @@ http://zzy.5sz.xyz/gzyxdl.php?id=07259f1303e848e481fbc3543d583644
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="央視",电视指南
 http://tjy2002.vicp.net:4022/udp/239.253.43.19:5146#http://k3.skyhi.top:8888/udp/239.253.43.19:5146
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="央視",央视文化精品
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXyijiaHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央視",世界地理
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXhanliuHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="央視",兵器科技
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXyinghuaHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXjuchangHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXxinzhiHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="央視",风云音乐
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXxinyiHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+http://103.140.229.13/zztv/gudou.php?id=DOXyuanxianHD_7000
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="央視",卫生健康
 http://tjy2002.vicp.net:4022/udp/239.253.43.10:5146
 ######
