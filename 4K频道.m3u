@@ -3,7 +3,6 @@
 http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
 ## http://39.134.156.12/PLTV/88888888/224/3221225670/www.dszbdq.cn.m3u8
 ## http://39.134.156.16/PLTV/88888888/224/3221225670/index.m3u8
-## http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/1.m3u8
 ## http://39.134.157.199/PLTV/88888888/224/3221225670/index.m3u8
 ## http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
 ## http://39.134.156.15/PLTV/88888888/224/3221225670/.m3u8
@@ -28,7 +27,8 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322122931
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hktv.png" group-title="4K频道",海看4K
 http://120.221.5.175:8089/PLTV/88888888/224/3221225833/index.m3u8
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/DOXTV.png" group-title="4K频道",DOX4K
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/DOXTV.png" group-title="4K频道",DOX4K
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="4K频道",芒果4K
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gdzy-4k.png" group-title="4K频道",广东综艺4K
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
