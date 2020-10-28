@@ -45,6 +45,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 ## http://61.238.6.49:8001/bysid/82
 
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
+http://live.ecook.cn/live/e2e6fb54b6bcf30773bfdf2657fcefaa.m3u8
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
 http://zscity.f3322.net:8000/bysid/83
 ## http://tv.sason.xyz/proxy/tvb.php?id=xw
