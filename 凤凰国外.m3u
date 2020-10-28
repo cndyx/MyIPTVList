@@ -31,6 +31,9 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="港台新",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
+http://live.ecook.cn/live/e2e6fb54b6bcf30773bfdf2657fcefaa.m3u8
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 ## http://61.238.6.49:8000/bysid/1
@@ -44,9 +47,6 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 ## http://61.238.6.49:8001/bysid/82
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
-http://live.ecook.cn/live/e2e6fb54b6bcf30773bfdf2657fcefaa.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wxxw.png" group-title="港台新",无线新闻台
 http://zscity.f3322.net:8000/bysid/83
