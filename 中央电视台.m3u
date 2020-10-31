@@ -115,7 +115,8 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226114/1/index.m3u8?f
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 ## http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fxzl.png" group-title="央視",发现之旅
-http://125.210.152.18:9090/live/FXZL_750.m3u8
+http://125.210.152.18:9090/live/FXZL.m3u8
+## http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zxs.png" group-title="央視",中学生
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xkdm.png" group-title="央視",新科动漫
