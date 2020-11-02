@@ -14,14 +14,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="港台新",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
-https://4gc5nhcji8rzdkqbq8y5y.ourdvsss.com/pullhls3948069e.live.126.net/live/d37138f8e55bcf47939b31a417a9633b/playlist.m3u8?wshc_tag=0&wsts_tag=5f9ef80d&wsid_tag=75882755&wsiphost=ipdbm
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
-http://a.315600.xyz/dl/iptv.php?id=12
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
-https://ws.matchupstream.tuboshu.com/live/df3e173d94a2b44d453e0717df4a04d5.flv
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cna.png" group-title="港台新",Channel [CNA]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bloomberg.png" group-title="港台新",Bloomberg TV
