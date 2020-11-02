@@ -14,6 +14,14 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="港台新",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
+https://4gc5nhcji8rzdkqbq8y5y.ourdvsss.com/pullhls3948069e.live.126.net/live/d37138f8e55bcf47939b31a417a9633b/playlist.m3u8?wshc_tag=0&wsts_tag=5f9ef80d&wsid_tag=75882755&wsiphost=ipdbm
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
+http://a.315600.xyz/dl/iptv.php?id=12
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/mingzhu.png" group-title="港台新",明珠台
+https://ws.matchupstream.tuboshu.com/live/df3e173d94a2b44d453e0717df4a04d5.flv
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cna.png" group-title="港台新",Channel [CNA]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bloomberg.png" group-title="港台新",Bloomberg TV
@@ -62,7 +70,7 @@ http://61.160.152.55/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONT
 http://61.160.152.55:80/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240326_1
 ######
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央視",CCTV-4K 超高清
-http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1023.stream/playlist.m3u8
+http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
 ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="央視",电视指南
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
@@ -363,11 +371,11 @@ http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K频道",欢笑剧场4K
-http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hktv.png" group-title="4K频道",海看4K
-http://120.221.5.175:8089/PLTV/88888888/224/3221225833/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gdzy-4k.png" group-title="4K频道",广东综艺4K
 http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ngds4k.png" group-title="4K频道",南国都市4K
+http://hls222.dszbdq.cn/gdgz.php?id=gzsh
 
 ####### 少儿
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdh.png" group-title="少儿",黑莓动画
