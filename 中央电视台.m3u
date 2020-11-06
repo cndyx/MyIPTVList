@@ -50,8 +50,7 @@ http://61.160.152.55/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONT
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視",CCTV-12 社会与法
 http://61.160.152.55:80/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?CONTENTID=00000110240252_1
 #EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央視",CCTV-13 新闻
-http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
-## http://112.132.32.52/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3u8
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/qiku.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視",CCTV-14 少儿
