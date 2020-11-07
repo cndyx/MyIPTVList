@@ -96,7 +96,7 @@ http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fm
 ## http://junlovefang.top:80/yfy.php?id=51014
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
-## http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8#http://junlovefang.top:80/yfy.php?id=43056
+## http://junlovefang.top:80/yfy.php?id=43056
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
@@ -114,7 +114,6 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226114/1/index.m3u8?f
 ## http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/lgs.png" group-title="央視",老故事
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-## http://hdtv.lzu6.edu.cn/hls/hls113.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fxzl.png" group-title="央視",发现之旅
 http://125.210.152.18:9090/live/FXZL.m3u8
 ## http://125.210.152.18:9090/live/FXZL_750.m3u8
