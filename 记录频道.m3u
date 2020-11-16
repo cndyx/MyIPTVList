@@ -6,7 +6,7 @@ http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 ## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
 ## http://39.134.156.15/PLTV/88888888/224/3221225590/.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225671/1/01.m3u8?fmt=ts2hls
 ## http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 ## http://39.135.225.11:18890/PLTV/88888888/224/3221226937/index.m3u8
 
@@ -52,7 +52,7 @@ http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.14
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000049
 ## http://springrain.top/shuliyun.php?id=046.m3u8
-## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225683//index.m3u8?fmt=ts2hls
+## http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225683/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="纪录片",纪录片
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiLuPian

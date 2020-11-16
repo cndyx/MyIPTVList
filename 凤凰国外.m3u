@@ -1,14 +1,16 @@
 #EXTM3U
 ###### 凤凰台
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png" group-title="港台新",凤凰中文台
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+## http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 ## http://39.134.185.235/PLTV/88888888/224/3221226368/index.m3u8
 ## http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 ## http://hls111.dszbdq.cn/tm1.php?id=PhoenixTVHD
 ## http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 ## http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+## http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 ## http://39.134.185.235/PLTV/88888888/224/3221226491/index.m3u8
 ## http://hls111.dszbdq.cn/tm1.php?id=PhoenixinfoTVHD
 ## http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
