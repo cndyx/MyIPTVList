@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
 ###### 凤凰台
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png" group-title="港台新",凤凰中文台
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
 http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 
@@ -13,6 +13,13 @@ rtmp://58.200.131.2/livetv/fhdy
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ylws.png" group-title="港台新",亚旅卫视
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/yxyl.png" group-title="港台新",综合娱乐台
+http://live-hwcdn.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新",有线新闻台
+http://live-hwcdn.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港台新",财经资讯台
+http://live-hwcdn.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cna.png" group-title="港台新",Channel [CNA]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
