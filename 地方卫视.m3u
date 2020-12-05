@@ -177,7 +177,6 @@ http://live.wifizs.cn/qdly/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085
-## http://springrain.top/shuliyun.php?id=057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000079
 ## ttp://tkbunj246.nian.gfzyw.cn/woniu.php?id=10000079

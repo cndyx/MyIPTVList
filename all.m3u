@@ -251,15 +251,9 @@ http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobi
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
 http://125.210.152.18:9090/live/HQLY.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
-http://222.133.41.206/e/cibn.php?id=37
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000049
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000086
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wwbk.png" group-title="纪录片",文物宝库
-http://springrain.top/shuliyun.php?id=068
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000076
 #####  高清影视
