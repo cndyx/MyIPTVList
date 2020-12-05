@@ -83,14 +83,18 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226071/1/index.m3u8?f
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="央視",兵器科技
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+## http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
+http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
+http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="央視",风云音乐
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="央視",卫生健康
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyzq.png" group-title="央視",风云足球
+## http://hdtv.haust.edu.cn/hls/hls20.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gef.png" group-title="央視",高尔夫网球
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
@@ -105,8 +109,9 @@ http://125.210.152.18:9090/live/FXZL.m3u8
 
 ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtn.png" group-title="央視",CGTN News
-http://39.130.215.158:6610/gitv_live/G_CGTN-HD/
+http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
 ## http://live.cgtn.com/1000/prog_index.m3u8
+## http://39.130.215.158:6610/gitv_live/G_CGTN-HD/
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 ## http://39.130.215.158:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8

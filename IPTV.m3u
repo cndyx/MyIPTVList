@@ -14,9 +14,9 @@ http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="IPTV",G+谍战剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="IPTV",G+动画乐园
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox环映
+#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="IPTV",Dox环映
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox剧场
+#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="IPTV",Dox剧场
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox映画
