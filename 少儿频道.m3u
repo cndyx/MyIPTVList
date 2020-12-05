@@ -17,8 +17,7 @@ http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdh.png" group-title="少儿",黑莓动画
 http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
-## http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
 http://211.137.115.110:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
@@ -27,18 +26,14 @@ http://211.137.115.110:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
 http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="少儿",I爱幼教
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkse.png" group-title="少儿",海看少儿
-http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkse.png" group-title="少儿",海看少儿
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000036
 ## http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gaoqing4.png" group-title="少儿",卡通剧场
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXMKT/JXMKT.jpg" group-title="少儿",熊猫卡通
-http://sam629205.f3322.net:2018/udp/239.93.1.172:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SECYDASAI/SECYDASAI.jpg" group-title="少儿",熊猫少儿
-http://sam629205.f3322.net:2018/udp/239.93.1.189:5140
-
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXMKT/JXMKT.jpg" group-title="少儿",熊猫卡通
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SECYDASAI/SECYDASAI.jpg" group-title="少儿",熊猫少儿
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/anime.png" group-title="少儿",动漫
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通

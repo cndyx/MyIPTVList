@@ -112,17 +112,12 @@ http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8
 #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NEIJTV4/NEIJTV4.jpg?1" group-title="地方台",内江科教
 http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/2020Sctvlogo.png" group-title="地方台",熊猫新闻
-http://sam629205.f3322.net:2018/udp/239.93.1.112:5140
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/2020Sctvlogo.png" group-title="地方台",熊猫新闻
 ## http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=129&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCGCWDASAI/SCGCWDASAI.jpg" group-title="地方台",熊猫爱生活
-http://sam629205.f3322.net:2018/udp/239.93.1.190:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYYPD/XMYYPD.jpg" group-title="地方台",熊猫影院
-http://sam629205.f3322.net:2018/udp/239.93.0.214:5140
-#EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYLPD/XMYLPD.jpg" group-title="地方台",熊猫体娱
-http://sam629205.f3322.net:2018/udp/239.93.0.94:5140
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ipanda-live.png" group-title="地方台",熊猫直播间
-http://sam629205.f3322.net:2018/udp/239.93.0.211:9148
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SCGCWDASAI/SCGCWDASAI.jpg" group-title="地方台",熊猫爱生活
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYYPD/XMYYPD.jpg" group-title="地方台",熊猫影院
+## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/XMYLPD/XMYLPD.jpg" group-title="地方台",熊猫体娱
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ipanda-live.png" group-title="地方台",熊猫直播间
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
 http://live.826pc.com/cdtv/live.php?id=1
@@ -183,8 +178,7 @@ http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000079
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
-http://player.200877926.top/1786/hunan/hnyx2m3u8.php?id=11006
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
 http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
 ## http://tv.lanjingfm.com/cctbn/sichuan.m3u8
