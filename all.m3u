@@ -174,10 +174,6 @@ http://live.826pc.com/cdtv/live.php?id=2
 http://live.826pc.com/cdtv/live.php?id=3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方台",成都公共
 http://live.826pc.com/cdtv/live.php?id=5
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
-http://520574.xyz/dl/yfy.php?id=43029
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
-http://520574.xyz/dl/yfy.php?id=43030
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/emdy.png" group-title="地方台",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
