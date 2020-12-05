@@ -1,23 +1,10 @@
 #EXTM3U
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",古装剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",抗日剧场
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",电视剧
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xsj.png" group-title="IPTV",新视觉
-http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-## http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
-
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="IPTV",G+海外佳片
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv11.png" group-title="IPTV",G+华语影院
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv7.png" group-title="IPTV",G+热门综艺
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv4.png" group-title="IPTV",G+经典剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="IPTV",G+谍战剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="IPTV",G+动画乐园
-
-#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="IPTV",Dox环映
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="IPTV",Dox剧场
-http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox映画
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
@@ -63,6 +50,26 @@ http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 group-title="IPTV",I爱时尚
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",古装剧场
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",抗日剧场
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",电视剧
+http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xsj.png" group-title="IPTV",新视觉
+http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+## http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="IPTV",精品影院
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影1
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影2
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影3
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_8000p.flv
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影4
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_8000p.flv
+
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cmlp.png" group-title="IPTV",潮妈辣婆
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png" group-title="IPTV",Newtv-四川
@@ -82,17 +89,24 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv.png" group-title="IPTV",Newtv-云南
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
-
 ############ END ############
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdp.png" group-title="IPTV",海看大片
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="IPTV",首映电影
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="IPTV",环球电影
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="IPTV",动作影院
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="IPTV",欧美影院
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="IPTV",华语影院
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jcys.png" group-title="IPTV",精彩影视
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影5
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影6
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mxdp.jpg" group-title="IPTV",明星大片
 ## #EXTINF:-1 tvg-logo="http://www.88dianshi.com/uploads/images/20180620/e195561c6fc3dada192c5664b4c69cef.jpg" group-title="IPTV",海外剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkrb.png" group-title="IPTV",海看热播
-## http://120.221.5.102:8089/PLTV/88888888/224/3221225878/index.m3u8#http://120.221.44.101:8089/PLTV/88888888/224/3221225878/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkjc.png" group-title="IPTV",海看剧场
-## http://120.221.5.102:8089/PLTV/88888888/224/3221226053/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkdj.png" group-title="IPTV",海看电竞
-## http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkac.png" group-title="IPTV",海看爱宠
 ## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAIKANYY/HAIKANYY.jpg" group-title="IPTV",海看演艺
 ## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/HAIKANJK/HAIKANJK.jpg" group-title="IPTV",海看健康
