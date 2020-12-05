@@ -85,9 +85,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 ############ END ############
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="IPTV",Dox剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="IPTV",Dox院线
-
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mxdp.jpg" group-title="IPTV",明星大片
 ## #EXTINF:-1 tvg-logo="http://www.88dianshi.com/uploads/images/20180620/e195561c6fc3dada192c5664b4c69cef.jpg" group-title="IPTV",海外剧场
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hkrb.png" group-title="IPTV",海看热播

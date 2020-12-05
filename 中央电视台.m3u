@@ -109,12 +109,8 @@ http://125.210.152.18:9090/live/FXZL.m3u8
 
 ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtn.png" group-title="央視",CGTN News
-http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
-## http://live.cgtn.com/1000/prog_index.m3u8
-## http://39.130.215.158:6610/gitv_live/G_CGTN-HD/
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary
-http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-## http://39.130.215.158:6610/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社英文
