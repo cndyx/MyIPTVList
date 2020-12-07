@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot8.png" group-title="少儿",I爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cetv1.png" group-title="少儿",教育综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CETV-2" tvg-logo="https://dss0.baidu.com/73x1bjeh1BF3odCf/it/u=2365413976,3114777045&fm=85&s=F313A066B79BAE2D2AA75196030070A8" group-title="少儿",继续教育
@@ -12,8 +14,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227050/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="少儿",成都少儿
 http://live.826pc.com/cdtv/live.php?id=6
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot8.png" group-title="少儿",I爱动漫
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdh.png" group-title="少儿",黑莓动画
 http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动

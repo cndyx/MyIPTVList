@@ -200,7 +200,7 @@ http://live.826pc.com/cdtv/live.php?id=5
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/emdy.png" group-title="地方台",峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqxw.png" group-title="地方台",重庆新闻
-http://219.153.252.50/PLTV/88888888/224/3221225531/chunklist.m3u8
+http://cbnlive.cbchot.com/live/CQTV_xw_hd_1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqds.png" group-title="地方台",重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 
@@ -258,19 +258,27 @@ http://112.17.40.147/wh7f454c46tw3159855682_173341120/hwltc.tv.cdn.zj.chinamobil
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="纪录片",探索记录
 http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890280&hms_devid=1455&online=1592890280&vqe=1
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录片",国家地理频道
-http://tv.tangyuanya.com:8080/hls/ke9797/187
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="纪录片",国家地理野生
-http://tv.tangyuanya.com:8080/hls/ke9797/188
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="纪录片",国家地理悠人
-http://tv.tangyuanya.com:8080/hls/ke9797/219
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/AnimalPlanet.png" group-title="纪录片",动物星球
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
 http://125.210.152.18:9090/live/HQLY.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
 http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000086
+
+###### 4K
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cx4k.png" group-title="4K频道",纯享4K
+http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B&version=1.0&owaccmark=1000000004000011651&owchid=ystenlive&owsid=6721581571186720581&AuthInfo=QejU%2ByFkapDLEHjn7Vi7Bsh98cz5RjIeOqbMi0Qqlame2O8Id%2BgCUUdS4cJUD1ieqKIx8wFJ0pPdF5P8MGRzRrjFLuuRCIZ2D2ha%2Fr9iiM%2BAnSOfyc4s5zWrjzUdrEbf
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/love4k.png" group-title="4K频道",爱上4K
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bestv4k.png" group-title="4K频道",百视通4K
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K频道",欢笑剧场4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gdzy-4k.png" group-title="4K频道",广东综艺4K
+http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ngds4k.png" group-title="4K频道",南国都市4K
+http://120.221.226.226/aplay.gztv.com/sec/shenghuos.m3u8
 
 #####  高清影视
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdy.png" group-title="高清影视",黑莓电影
@@ -280,17 +288,21 @@ http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="高清影视",欧美影院
 http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890225&hms_devid=1460&online=1592890225&vqe=1
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox映画
+#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="高清影视",Dox环映
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="高清影视",Dox剧场
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="高清影视",Dox映画
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyl.png" group-title="IPTV",Dox英伦
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyl.png" group-title="高清影视",Dox英伦
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyj.png" group-title="IPTV",Dox怡家
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyj.png" group-title="高清影视",Dox怡家
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxz.png" group-title="IPTV",Dox新知
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxz.png" group-title="高清影视",Dox新知
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxy.png" group-title="IPTV",Dox新艺
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxy.png" group-title="高清影视",Dox新艺
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyq.png" group-title="IPTV",Dox雅趣
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyq.png" group-title="高清影视",Dox雅趣
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-hd.png" group-title="高清影视",高清电影
@@ -315,35 +327,20 @@ http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot4.png" group-title="IPTV",I爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png" group-title="IPTV",Newtv-四川
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-gd.png" group-title="IPTV",Newtv-广东
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sd.png" group-title="IPTV",Newtv-山东
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-
-###### 4K
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cx4k.png" group-title="4K频道",纯享4K
-http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/love4k.png" group-title="4K频道",爱上4K
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bestv4k.png" group-title="4K频道",百视通4K
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K频道",欢笑剧场4K
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gdzy-4k.png" group-title="4K频道",广东综艺4K
-http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ngds4k.png" group-title="4K频道",南国都市4K
-http://hls222.dszbdq.cn/gdgz.php?id=gzsh
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sc.png" group-title="IPTV",Newtv-四川
+## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-gd.png" group-title="IPTV",Newtv-广东
+## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/newtv-sd.png" group-title="IPTV",Newtv-山东
+## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
 
 ####### 少儿
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot8.png" group-title="少儿",I爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdh.png" group-title="少儿",黑莓动画
 http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="少儿",哈哈炫动
 http://223.110.241.149:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot8.png" group-title="少儿",I爱动漫
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cetv1.png" group-title="少儿",教育综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
