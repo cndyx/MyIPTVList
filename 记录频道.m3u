@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qjs.png" group-title="纪录片",全纪实
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jsrw.png" group-title="纪录片",纪实人文
-http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
-## http://39.134.156.15/PLTV/88888888/224/3221225590/.m3u8
+http://39.135.140.99:6610/PLTV/88888888/224/3221225655/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000041
 ## http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
 ## http://www.ldiptv.xyz/daili/hunan.php?id=316
 

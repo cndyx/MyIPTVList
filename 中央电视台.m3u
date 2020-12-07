@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視",CCTV-1 综合
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1
 ## http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
-## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226125/2.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"   group-title="央視",CCTV-2 财经
 http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
 ## http://117.169.72.135:8080/PLTV/88888888/224/3221225631/index.m3u8
@@ -40,7 +39,6 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlis
 ## http://39.134.66.66/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央視",CCTV-10 科教
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=00000110240251_1
-## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央視",CCTV-11 戏曲
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視",CCTV-12 社会与法
@@ -51,7 +49,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/qiku.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視",CCTV-14 少儿
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8?CONTENTID=00000110240253_1
-## http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視",CCTV-15 音乐
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
@@ -69,6 +66,7 @@ http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/322122675
 ## http://112.17.40.13/PLTV/88888888/224/3221226758/index.m3u8
 ## http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1023.stream/playlist.m3u8
 ## http://zzy.5sz.xyz/gzyxdl.php?id=07259f1303e848e481fbc3543d583644
+## http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 ## http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 ## http://112.17.40.12/wh7f454c46tw1099172031_1459911128/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
 
@@ -78,33 +76,43 @@ http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/322122675
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央視",世界地理
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000075
 ## http://junlovefang.top:80/yfy.php?id=43057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="央視",电视指南
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="央視",兵器科技
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000078
 ## http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
-http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000074
+## http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
 http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="央視",风云音乐
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="央視",风云剧场
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="央視",风云音乐
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="央視",卫生健康
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyzq.png" group-title="央視",风云足球
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyzq.png" group-title="央視",风云足球
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 ## http://hdtv.haust.edu.cn/hls/hls20.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gef.png" group-title="央視",高尔夫网球
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/lgs.png" group-title="央視",老故事
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/lgs.png" group-title="央視",老故事
+http://39.135.139.214:6610/PLTV/88888888/224/3221225517/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fxzl.png" group-title="央視",发现之旅
 http://125.210.152.18:9090/live/FXZL.m3u8
 ## http://125.210.152.18:9090/live/FXZL_750.m3u8
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zxs.png" group-title="央視",中学生
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zxs.png" group-title="央視",中学生
+http://39.135.139.214:6610/PLTV/88888888/224/3221225515/2/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xkdm.png" group-title="央視",新科动漫
 
 ######
