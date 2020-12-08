@@ -49,8 +49,6 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/untv.png" group-title="港台新",United Nations TV
 http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/davinci.png" group-title="港台新",达文西
-http://27.124.3.48/28609001/jiegectx.php?id=68
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="港台新",DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
@@ -61,6 +59,7 @@ http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
 ## http://45.93.217.106/jiuban/hg.php?id=2
+
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 http://mggj02930373.ysj521.cn/smart.php?c=jade_twn&h=198.16.106.58:8278
@@ -76,12 +75,16 @@ http://27.124.3.48/28609001/jiegectx.php?id=391
 ## http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 ## http://hls.globaliptv.ml/tvbpearl.php
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/davinci.png" group-title="港台新",达文西
+http://27.124.3.48/28609001/jiegectx.php?id=68
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv.png" group-title="港台新",ViuTV HD
-http://hls.globaliptv.ml/viu99.php
+http://27.124.3.48/28609001/jiegectx.php?id=72
+## http://hls.globaliptv.ml/viu99.php
 ## https://ws.matchupstream.tuboshu.com/live/a4f368f754e45486cb68710020cc6a5d.flv
 ## http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/viutv6.png" group-title="港台新",ViuTV6 HD
-http://hls.globaliptv.ml/viu96.php
+http://27.124.3.48/28609001/jiegectx.php?id=176
+## http://hls.globaliptv.ml/viu96.php
 ## http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
 rtmp://58.200.131.2:1935/livetv/channelv
@@ -121,10 +124,10 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="港台新",NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛海外
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛1台
-http://27.124.3.48/28609001/jiegectx.php?id=184
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛海外
+## https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/daai.png" group-title="港台新",大愛1台
+## http://27.124.3.48/28609001/jiegectx.php?id=184
 ## https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港台新",大愛2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
