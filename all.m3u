@@ -168,17 +168,17 @@ http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kbws.png" group-title="地方卫视",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 #####  本地
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-2.png" group-title="地方台",文化旅游
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scwlpd.png" group-title="地方台",文化旅游
 http://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-3.png" group-title="地方台",四川经济
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scjjpd.png" group-title="地方台",四川经济
 http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-4.png" group-title="地方台",四川新闻
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scxwpd.png" group-title="地方台",四川新闻
 http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-5.png" group-title="地方台",影视文艺
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scyswy.png" group-title="地方台",影视文艺
 http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-7.png" group-title="地方台",妇女儿童
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scflet.png" group-title="地方台",妇女儿童
 http://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctv-gg.png" group-title="地方台",公共乡村
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/scggxc.png" group-title="地方台",公共乡村
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
