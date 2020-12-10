@@ -195,11 +195,6 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqds.png" group-title="地方台",重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000044
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000045
-
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
 http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方台",上海新闻
@@ -224,8 +219,6 @@ http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 http://play.zhtctv.cn/portal/btv.flv
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085
 
 ####### 纪录频道
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qjs.png" group-title="纪录片",全纪实
@@ -233,7 +226,7 @@ http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jsrw.png" group-title="纪录片",纪实人文
 http://39.135.140.99:6610/PLTV/88888888/224/3221225655/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000041
+http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsjl.png" group-title="纪录片",求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
@@ -254,7 +247,7 @@ http://125.210.152.18:9090/live/HQLY.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
 http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tcpd.png" group-title="纪录片",陶瓷频道
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000086
+http://d-mail.vicp.net:4000/udp/239.45.3.50:5140
 
 ###### 4K
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cx4k.png" group-title="4K频道",纯享4K
@@ -336,7 +329,7 @@ http://223.110.241.149:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cetv1.png" group-title="少儿",教育综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000036
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
 http://211.137.115.110:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
 

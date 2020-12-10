@@ -150,16 +150,12 @@ http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
 http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000044
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000045
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
 http://live.wifizs.cn/qdly/sd/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
-http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000085
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
 http://39.135.138.59:18890/PLTV/88888910/224/3221225878/index.m3u8
 

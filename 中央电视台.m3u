@@ -77,20 +77,17 @@ http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/322122675
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="央視",世界地理
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000075
 ## http://junlovefang.top:80/yfy.php?id=43057
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="央視",电视指南
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="央視",兵器科技
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000078
 ## http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="央視",女性时尚
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="央視",第一剧场
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-## http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000074
 ## http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="央視",怀旧剧场
 http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
