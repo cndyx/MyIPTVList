@@ -327,7 +327,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225683/index.m3u8
 http://223.110.241.149:6610/gitv/live1/G_XUANDONG/G_XUANDONG/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cetv1.png" group-title="少儿",教育综合
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="少儿",金鹰卡通
 http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
