@@ -38,6 +38,9 @@ http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 ## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JXMKT/JXMKT.jpg" group-title="少儿",熊猫卡通
 ## #EXTINF:-1 tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SECYDASAI/SECYDASAI.jpg" group-title="少儿",熊猫少儿
 
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="少儿",炫佳动漫
+http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
+
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/anime.png" group-title="少儿",动漫
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿",嘉佳卡通
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="少儿",北京卡酷

@@ -50,16 +50,9 @@ http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 group-title="IPTV",I爱时尚
 http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",古装剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",抗日剧场
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="IPTV",电视剧
-http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls?rrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/xsj.png" group-title="IPTV",新视觉
 http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 ## http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="IPTV",精品影院
-http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JingPin
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/bilibili.png" group-title="IPTV",斗鱼电影1
 http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs

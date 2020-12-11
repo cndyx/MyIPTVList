@@ -42,7 +42,6 @@ http://d-mail.vicp.net:4000/udp/239.45.3.50:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cmpd.png" group-title="纪录片",车迷频道
 http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cibn.png" group-title="纪录片",纪录片
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/klcd.png" group-title="纪录片",快乐垂钓
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/Discovery.png" group-title="纪录片",Discovery
 ## rtmp://58.200.131.2:1935/livetv/discovery
