@@ -3,7 +3,8 @@
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1
 ## http://117.169.72.135:8080/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"   group-title="央視",CCTV-2 财经
-http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+## http://112.17.40.211/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls
 ## http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
 ## http://117.169.72.135:8080/PLTV/88888888/224/3221225631/index.m3u8
 ## http://39.134.66.66/PLTV/88888888/224/3221225691/index.m3u8
@@ -15,14 +16,12 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlis
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cctv-4-america.png" group-title="央視",CCTV-4 中文国际美洲
 http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
-## http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cctv-4-europe.png" group-title="央視",CCTV-4 中文国际欧洲
 http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
 ## https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-## http://218.98.16.3:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央視",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
-## http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226395/index.m3u8
+http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226395/index.m3u8
+## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225591/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視",CCTV-5+ 体育赛事
 http://39.134.66.66/PLTV/88888888/224/3221225590/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央視",CCTV-6 电影
@@ -55,13 +54,17 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CON
 ## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 ## http://player.ioioz.com/1786/0/migum3u8.php?id=673168223
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視"",CCTV-17 农业农村
-http://61.189.255.139/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240326_1
+http://117.169.120.98:8080/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
+## http://61.189.255.139/live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?CONTENTID=00000110240326_1
 ## http://117.169.120.160:8080/live/HD-4000k-1080P-cctv17/1.m3u8
 
 ######
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央視",CCTV4K 超高清
-http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
+http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
+## http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+## http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
+## http://117.148.187.56/PLTV/88888888/224/3221226758/index.m3u8
 ## http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hlsrrsip=ltcottcdn.ln.chinamobile.com&zoneoffset=0&servicetype=1
 ## http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 ## http://112.17.40.13/PLTV/88888888/224/3221226758/index.m3u8
@@ -116,8 +119,10 @@ http://125.210.152.18:9090/live/FXZL.m3u8
 ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtn.png" group-title="央視",CGTN News
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary
-http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary、
+http://221.179.217.70/PLTV/88888888/224/3221225866/1.m3u8
+## http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+## http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社英文
