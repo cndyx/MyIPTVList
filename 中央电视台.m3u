@@ -15,9 +15,12 @@ http://61.189.255.139/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlis
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央視",CCTV-4 中文国际
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cctv-4-america.png" group-title="央視",CCTV-4 中文国际美洲
-http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
+https://cctvbsh5ca.v.live.baishancdnx.cn/live/cctvamerica_2/index.m3u8?contentid=2820180516001
+## https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+## http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cctv-4-europe.png" group-title="央視",CCTV-4 中文国际欧洲
-http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?contentid=2820180516001
+## http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
 ## https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央視",CCTV-5 体育
 http://dbiptv.sn.chinamobile.com/pltv/88888890/224/3221226395/index.m3u8
