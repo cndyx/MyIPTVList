@@ -10,12 +10,11 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 ## http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bestv4k.png" group-title="4K频道",百视通4K
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-## http://39.135.225.11:18890/PLTV/88888888/224/3221226952/index.m3u8
+http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+## http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 ## http://117.148.187.59/PLTV/88888888/224/3221226718/index.m3u8
 ## http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 ## http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-## http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K频道",欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
