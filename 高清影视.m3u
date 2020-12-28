@@ -1,10 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-hd.png" group-title="高清影视",高清电影
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+## http://39.134.19.76:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-dzdy.png" group-title="高清影视",动作电影
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+## http://39.134.19.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chc-jtyy.png" group-title="高清影视",家庭影院
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1#rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+## http://39.134.19.153:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hmdy.png" group-title="高清影视",黑莓电影
 http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
