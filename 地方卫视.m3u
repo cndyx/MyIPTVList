@@ -132,36 +132,42 @@ http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="地方台",新闻综合
 http://live.826pc.com/cdtv/live.php?id=1
+## http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png" group-title="地方台",经济资讯
 http://live.826pc.com/cdtv/live.php?id=2
+## http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png" group-title="地方台",都市生活
 http://live.826pc.com/cdtv/live.php?id=3
+## http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png" group-title="地方台",影视文艺
-https://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=45
+http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=45
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="地方台",成都公共
 http://live.826pc.com/cdtv/live.php?id=5
+## http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=5
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png" group-title="地方台",成都少儿
 http://live.826pc.com/cdtv/live.php?id=6
+## http://www.ootori.xyz/tv/cditv-hd.php?cid=192&id=6
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",食尚频道
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",资讯新干线
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",美食旅游
-## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方台",美食天府
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方台",美食天府
+https://www.ootori.xyz/tv/cditv-hd.php?cid=2763&id=17
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方台",上海ICS
-http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方台",上海新闻
-http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方台",上海都市
-http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shenghuoshishang.png" group-title="地方台",生活时尚
-http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
 http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方台",极速汽车
-http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
-http://39.135.249.210/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
+http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3.m3u8
 
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndy.png" group-title="地方台",湖南电影
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
@@ -184,10 +190,8 @@ http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdwj.png" group-title="地方台",成都温江
 http://182.138.51.71/PLTV/88888920/224/3221225796/index.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
-http://streaming.sltv.net/live/1f9c43a006c947aba1afccfbe9f35b2e.m3u8?fmt=h264_550k_ts&m3u8
 
-
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdsl.png" group-title="地方台",成都双流
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/mangotv.png" group-title="地方台",芒果TV
 ## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="地方台",DV生活
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdht.png" group-title="地方台",成都高新
