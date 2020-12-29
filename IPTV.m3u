@@ -1,11 +1,4 @@
 #EXTM3U
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="IPTV",G+海外佳片
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv11.png" group-title="IPTV",G+华语影院
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv7.png" group-title="IPTV",G+热门综艺
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv4.png" group-title="IPTV",G+经典剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="IPTV",G+谍战剧场
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="IPTV",G+动画乐园
-
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="IPTV",Dox映画
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyl.png" group-title="IPTV",Dox英伦
@@ -18,6 +11,16 @@ http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?f
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxyq.png" group-title="IPTV",Dox雅趣
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
+
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv10.png" group-title="IPTV",G+海外佳片
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv11.png" group-title="IPTV",G+华语影院
+http://39.136.11.19/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv7.png" group-title="IPTV",G+热门综艺
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv4.png" group-title="IPTV",G+经典剧场
+http://39.136.11.19/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv3.png" group-title="IPTV",G+谍战剧场
+http://39.136.11.19/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gtv6.png" group-title="IPTV",G+动画乐园
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ihot2.png" group-title="IPTV",I爱解密
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
