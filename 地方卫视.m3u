@@ -1,7 +1,7 @@
 #EXTM3U
 #####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
-http://182.138.51.71/PLTV/88888920/224/3221225696/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视",重庆卫视
 http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
 ## http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
@@ -151,8 +151,7 @@ http://live.826pc.com/cdtv/live.php?id=6
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",食尚频道
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",资讯新干线
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cdtv.png" group-title="地方台",美食旅游
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方台",美食天府
-https://www.ootori.xyz/tv/cditv-hd.php?cid=2763&id=17
+## #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/cdtv_meishi.png" group-title="地方台",美食天府
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方台",上海ICS
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
@@ -174,18 +173,17 @@ http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226138/3
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hndsj.png" group-title="地方台",湖南电视剧
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/tea.png" group-title="地方台",茶频道
 
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
-http://live.wifizs.cn/qdly/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
-http://39.135.138.59:18890/PLTV/88888910/224/3221225878/index.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/zsly.png" group-title="地方台",群岛旅游
+## http://live.wifizs.cn/qdly/sd/live.m3u8
+## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhms.png" group-title="地方台",中华美食
+## http://39.135.138.59:18890/PLTV/88888910/224/3221225878/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zhtc.png" group-title="地方台",中华特产
 http://play.zhtctv.cn/portal/btv.flv#http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgtq.png" group-title="地方台",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/zgjt.png" group-title="地方台",中国交通
-http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/1.m3u8
-## http://tv.lanjingfm.com/cctbn/sichuan.m3u8
+http://tv.lanjingfm.com/cctbn/sichuan.m3u8
 ## http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=7
 ## http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 ## http://tv.lanjingfm.com/cctbn/beijing.m3u8
