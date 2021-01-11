@@ -114,10 +114,11 @@ http://125.210.152.18:9090/live/FXZL.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225896/index.m3u8
 ## http://live.cgtn.com/1000/prog_index.m3u8
 ## https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary、
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cgtndoc.png" group-title="央視",CGTN Documentary
 http://221.179.217.70/PLTV/88888888/224/3221225866/1.m3u8
 ## http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
 ## http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+## http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cnc.png" group-title="央視",新华社英文
