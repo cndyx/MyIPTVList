@@ -54,17 +54,6 @@ http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-p.m3u8
 http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cjzx.png" group-title="港台新",财经资讯台
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
-rtmp://58.200.131.2:1935/livetv/channelv
-
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.png" group-title="港台新",香港ATV
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-## https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/okey.png" group-title="港台新",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-
 ###### ******* ######
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/feicui.png" group-title="港台新",翡翠台
 rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/68
@@ -81,12 +70,22 @@ rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/76
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/tvbj2.png" group-title="港台新",J2
 ## http://61.238.6.49:8001/bysid/82
 ## http://hls.globaliptv.ml/tvbj2.php
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/chv.png" group-title="港台新",Channel [V]
+rtmp://58.200.131.2:1935/livetv/channelv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="港台新",HBO HD
 rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/37
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港台新",美亚电影台
 rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/43
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/baogu_hk.png" group-title="港台新",Now爆谷台
 rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/63
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/atv.png" group-title="港台新",香港ATV
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+## https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/okey.png" group-title="港台新",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/antv.png" group-title="港台新",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-xwt.png" group-title="港台新",Now新闻台
 rtmp://v3948069e.live.126.net/live/zzzzzzzzzzz/26
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/now-zbt.png" group-title="港台新",Now直播台
