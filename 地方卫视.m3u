@@ -3,57 +3,48 @@
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
 http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视",重庆卫视
-http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
+## http://223.110.254.137:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽卫视
-http://223.110.254.203:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+## http://223.110.254.203:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏卫视
-http://223.110.254.136:6610/cntv/live1/jiangsustv/jiangsustv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+## http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视",东方卫视
 http://223.110.254.212:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
-http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津卫视
-http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="地方卫视",山东卫视
 http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226587/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视
 http://223.110.254.143:6610/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-8000k-1080P-heilongjiangstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京卫视
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227436/index.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南卫视
 http://223.110.254.134:6610/cntv/live1/hunanstv/hunanstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方卫视",湖北卫视
 http://223.110.254.136:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方卫视",广东卫视
 http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226225/index.m3u8
 ## http://61.189.255.139/live.aishang.ctlcdn.com/00000110240137_1/playlist.m3u8?CONTENTID=00000110240137_1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="地方卫视",辽宁卫视
-http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
 ## http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
 ## http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
 http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226128/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
 http://223.110.254.210:6610/cntv/live1/zhejiangstv/zhejiangstv/1.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="地方卫视",吉林卫视
 http://39.135.10.66:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221225753/1/01.m3u8?fmt=ts2hls,63,01.m3u8
 ## http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jilinstv/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视",贵州卫视
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
-http://112.17.40.140/PLTV/88888888/224/3221226211/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视",东南卫视
 http://223.110.254.205:6610/cntv/live1/n-dongnanstv/n-dongnanstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
@@ -68,20 +59,19 @@ http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 ## http://39.134.115.163:8080/PLTV/88888910/224/3221225882/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
-## http://112.17.40.140/PLTV/88888888/224/3221226191/index.m3u8
 ## http://39.134.115.163:8080/PLTV/88888910/224/3221225883/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/henanstv/index.m3u8?IAS
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北卫视
 http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="地方卫视",陕西卫视
-http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
 http://39.134.39.38:80/PLTV/88888888/224/3221226240/index.m3u8?icpid=88888888&from=26&hms_devid=685,684&online=1606300511&vqe=3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方卫视",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="地方卫视",兵团卫视
-http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方卫视",南方卫视
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kbws.png" group-title="地方卫视",康巴卫视
@@ -159,9 +149,9 @@ http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方台",上海都市
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shenghuoshishang.png" group-title="地方台",生活时尚
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shenghuoshishang.png" group-title="地方台",生活时尚
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
 http://39.134.39.41/PLTV/88888888/224/3221226189/index.m3u8
 ## http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方台",极速汽车

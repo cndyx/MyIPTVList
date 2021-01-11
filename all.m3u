@@ -1,12 +1,11 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
 ###### 凤凰台
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png" group-title="港台新",凤凰中文台
-http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
-http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&from=30&hms_devid=1452
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-## http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png" group-title="港台新",凤凰资讯台
+http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangxianggang.png" group-title="港台新",凤凰香港台
+http://125.89.166.215:80/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pdy.png" group-title="港台新",凤凰电影台
 rtmp://58.200.131.2/livetv/fhdy
@@ -106,17 +105,17 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
 http://39.134.39.39/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视",重庆卫视
-http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽卫视
-http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏卫视
-http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视",东方卫视
 http://223.110.254.212:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳卫视
-http://112.17.40.140/PLTV/88888888/224/3221226543/index.m3u8
+http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津卫视
-http://112.17.40.140/PLTV/88888888/224/3221226488/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="地方卫视",山东卫视
 http://223.110.254.207:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视
@@ -130,7 +129,7 @@ http://223.110.254.136:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hu
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方卫视",广东卫视
 http://223.110.254.195:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="地方卫视",辽宁卫视
-http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
 http://223.110.254.199:6610/cntv/live1/jiangxistv/jiangxistv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江卫视
@@ -140,7 +139,7 @@ http://39.135.10.66:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221225753/1/01.m3u8?f
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视",贵州卫视
 http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
-http://112.17.40.140/PLTV/88888888/224/3221226211/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视",东南卫视
 http://223.110.254.205:6610/cntv/live1/n-dongnanstv/n-dongnanstv/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
@@ -158,13 +157,13 @@ http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-b
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北卫视
 http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="地方卫视",陕西卫视
-http://112.17.40.140/PLTV/88888888/224/3221226177/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
 http://39.134.39.38:80/PLTV/88888888/224/3221226240/index.m3u8?icpid=88888888&from=26&hms_devid=685,684&online=1606300511&vqe=3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方卫视",云南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225838/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="地方卫视",兵团卫视
-http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方卫视",南方卫视
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/kbws.png" group-title="地方卫视",康巴卫视
@@ -197,7 +196,7 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cqds.png" group-title="地方台",重庆都市
 http://219.153.252.50/PLTV/88888888/224/3221225640/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shanghaidongfangyingshi.png" group-title="地方台",东方影视
 http://39.134.39.41/PLTV/88888888/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方台",上海新闻
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
@@ -205,7 +204,7 @@ http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方台",上海都市
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shenghuoshishang.png" group-title="地方台",生活时尚
+#EXTINF:-1 tvg-logo="http://cdn.jsdelivr.net/gh/supzhang/epg/tb1/qt/shenghuoshishang.png" group-title="地方台",生活时尚
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226140/3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方台",极速汽车
 http://39.135.253.54/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226152/3.m3u8
@@ -241,7 +240,7 @@ http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsjl.png" group-title="纪录片",求索记录
-http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qskx.png" group-title="纪录片",求索科学
 http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8#http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsdw.png" group-title="纪录片",求索动物
@@ -255,7 +254,7 @@ http://112.17.40.147/wh7f454c46tw3159855682_173341120/hwltc.tv.cdn.zj.chinamobil
 http://112.17.40.154/wh7f454c46tw2874385578_-650182391/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890280&hms_devid=1455&online=1592890280&vqe=1
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqly.png" group-title="纪录片",环球旅游
 http://125.210.152.18:9090/live/HQLY.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
@@ -271,9 +270,9 @@ http://112.17.40.137/wh7f454c46tw2431502278_-1330208715/hwltc.tv.cdn.zj.chinamob
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="高清影视",欧美影院
 http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890225&hms_devid=1460&online=1592890225&vqe=1
 
-#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="高清影视",Dox环映
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxhy.png" group-title="高清影视",Dox环映
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="高清影视",Dox剧场
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxjc.png" group-title="高清影视",Dox剧场
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/doxxh.png" group-title="高清影视",Dox映画
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls

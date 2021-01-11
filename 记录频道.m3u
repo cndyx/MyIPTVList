@@ -5,11 +5,10 @@ http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
 http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010606/1.m3u8?stbId=005301FF001589101611549359B92C46&channel-id=ystenlive&Contentid=1000000001000010606&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000001000010606&owchid=ystenlive&owsid=5474771579530255373&AuthInfo=2TOfGIahP4HrGWrHbpJXVOhAZZf%2B%2BRvFCOimr7PCGr%2Bu3lLj0NrV6tPDBIsVEpn3QZdNn969VxaznG4qedKIxPvWqo6nkyvxK0SnJLSEP%2FF4Wxm5gCchMH9VO%2BhWyofF
 ## http://39.135.140.99:6610/PLTV/88888888/224/3221225655/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
-http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
-## http://www.ldiptv.xyz/daili/hunan.php?id=316
+http://61.189.255.139/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsjl.png" group-title="纪录片",求索记录
-http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qskx.png" group-title="纪录片",求索科学
 http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8#http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsdw.png" group-title="纪录片",求索动物
@@ -41,7 +40,7 @@ http://v.iam7.cn/iptv/cibn.php?code=8
 http://d-mail.vicp.net:4000/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/cmpd.png" group-title="纪录片",车迷频道
-http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
+http://112.17.40.148/PLTV/88888888/224/3221226837/index.m3u8
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sypd.png" group-title="纪录片",摄影频道
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/klcd.png" group-title="纪录片",快乐垂钓
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/Discovery.png" group-title="纪录片",Discovery
