@@ -6,16 +6,21 @@ http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000
 ## http://39.135.140.99:6610/PLTV/88888888/224/3221225655/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/jyjs.png" group-title="纪录片",金鹰纪实
 http://61.189.255.139/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1
+## http://223.113.54.41/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jinyingjishi/1200/index.m3u8?ProgramID=&encrypt=1
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsjl.png" group-title="纪录片",求索记录
-http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+## http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qskx.png" group-title="纪录片",求索科学
-http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8#http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+## http://112.17.40.200/PLTV/88888888/224/3221226608/index.m3u8#http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qsdw.png" group-title="纪录片",求索动物
-http://112.17.40.15/PLTV/88888888/224/3221226695/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+## http://112.17.40.15/PLTV/88888888/224/3221226695/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/qssh.png" group-title="纪录片",求索生活
-http://112.17.40.204/PLTV/88888888/224/3221226606/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+## http://112.17.40.204/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="纪录片",漫游世界
 http://112.17.40.147/wh7f454c46tw3159855682_173341120/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890565&hms_devid=1473&online=1592890565&vqe=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="纪录片",探索记录
@@ -32,7 +37,8 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://125.210.152.18:9090/live/HQLY.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hqqg.png" group-title="纪录片",环球奇观
 http://v.iam7.cn/iptv/cibn.php?code=8
-## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/gxpd.png" group-title="纪录片",国学频道
+http://223.113.54.41/live.hcs.cmvideo.cn:8088/wd_r4/ocn/shuhua/600/index.m3u8?ProgramID=&encrypt=1
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/sctx.png" group-title="纪录片",收藏天下
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wwbk.png" group-title="纪录片",文物宝库
 ## #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/shpd.png" group-title="纪录片",书画频道
